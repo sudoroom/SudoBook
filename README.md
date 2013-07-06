@@ -1,4 +1,4 @@
-SudoBook
+SudoBOOK
 ========
 
 This is the SudoRoom Book
