@@ -1,0 +1,46 @@
+# Emacs backup files
+*.~*~
+\#*\#
+# Emacs backups of hidden files, like ".gitignore.~3~"
+.*.~*~
+.\#*
+# Object files
+*.o
+# Core files (files created when an executable program crashes).
+*.core
+# Perl build process related
+blib
+pm_to_blib
+Makefile.old
+MYMETA.json
+MYMETA.yml
+MANIFEST.bak
+
+# A file which says it is Ok to run "make clean" in this directory.
+
+.cleanok
+
+# C compiler files created when -o is not used.
+a.out
+
+# Ignore tarballs
+*.tar.gz
+
+# for the mac
+
+# Mac OS X hidden files
+.DS_Store
+
+# Vim swap files
+.*.sw?
+
+# Pow and Powder config
+/.pow*
+
+# RVM and rbenv
+/.rvmrc
+/.rbenv-version
+
+# Bundler binstubs
+/bin/
+
