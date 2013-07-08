@@ -2,6 +2,6 @@
 
 Art sneaks up in secret corners in the SudoRoom... 
 
-!(https://raw.github.com/sudoroom/SudoBook/master/images/Troy.jpg)
+![Troy's Drawing](https://raw.github.com/sudoroom/SudoBook/master/images/Troy.jpg)
 
-!(https://raw.github.com/sudoroom/SudoBook/master/images/troyDrawing.jpg)
+![Troy drawing](https://raw.github.com/sudoroom/SudoBook/master/images/troyDrawing.jpg)
